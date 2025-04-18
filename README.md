@@ -37,6 +37,6 @@ This project focuses on uncovering key insights across the marketing funnel usin
 
 ---
 
-📁 **Download Report**: [ShopEasy_CaseStudy.pbix](https://github.com/ArunGuptaaa/ShopEasy-CaseStudy/blob/main/ShopEasy_CaseStudy.pbix)
+📁 **Download Report**: [ShopEasy_CaseStudy](https://github.com/ArunGuptaaa/ShopEasy-CaseStudy/blob/main/ShopEasy_CaseStudy.pbix)
 
 ⭐ If you found this project insightful, feel free to star the repo or connect!
