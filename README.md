@@ -19,13 +19,24 @@ This project focuses on uncovering key insights across the marketing funnel usin
 - **Conversion Dashboard**: Visualizes customer actions (View, Click, Drop-off, Purchase) and conversion rates by product, month, and channel
 - **Customer Reviews Dashboard**: Sentiment vs. rating analysis and detailed review drill-down
 
+## 🔗 Live Dashboard
+[<img src= "https://github.com/ArunGuptaaa/ShopEasy-CaseStudy/blob/main/Images/Overview.png">](https://app.powerbi.com/view?r=eyJrIjoiOWFhYWY0NjctODE0OC00MzJkLWFjN2MtZjg4MjFlZDNkMTg2IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+
+> Click the image above to explore the **interactive Power BI dashboard** live.
+
+
+
 ## 📂 Data Sources
 - Restored SQL database (.bak) with 5 normalized tables
 - Sentiment-tagged CSV generated via Python from raw customer reviews
-
-
 
 ## 🚀 Outcomes
 - Enabled ShopEasy’s marketing team to identify underperforming areas
 - Optimized content and channel strategies using data insights
 - Delivered dynamic, filterable reporting experience by month/year
+
+---
+
+📁 **Download Report**: [ShopEasy_CaseStudy.pbix](https://github.com/ArunGuptaaa/ShopEasy-CaseStudy/blob/main/ShopEasy_CaseStudy.pbix)
+
+⭐ If you found this project insightful, feel free to star the repo or connect!
